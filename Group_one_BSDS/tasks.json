@@ -1,0 +1,16 @@
+[
+   {
+      "task": "do assignment",
+      "done": true,
+      "category": "school",
+      "due": "2025 07 25 12:00",
+      "subtasks": []
+   },
+   {
+      "task": "Go to kla",
+      "done": false,
+      "category": "home",
+      "due": "2025 09 09 21:30",
+      "subtasks": []
+   }
+]
